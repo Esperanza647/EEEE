@@ -1,11 +1,21 @@
-table  {
-     border: 4px solid #336bd4;
-     border-collapse: collapse;
-     min-width: 400px;
-     /*to align a table in css i need tp modify the margins*/
-     margin-left: auto;
-    margin-right: auto;
-    width: 95%
-    	}
+
+     body     {
+          background-color:#91a9cf}
 			
-td            { border: 3px solid #336bd4;}
+td            
+h3{
+     color: #456;
+     font-size: 48pt;
+     font-family: Nunito;
+}
+.blue{
+     color: #336bd4;
+}
+
+.red{
+     color: #ed2121;
+}
+
+.yellow{
+     color: #dfe35f;
+}

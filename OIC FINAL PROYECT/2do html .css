@@ -1,15 +1,13 @@
 
-table         { border: 3px solid #336bd4;
-                border-collapse: separate;
-	        border-spacing:0px;
-    		min-width: 400px;}
+ body     {
+          background-color:#336bd4}
+			
 
-td            { border: 2px solid white;}
 
 h2	      { text-align: center;
 		color:0d0c0c; }
 
-h3	      { text-align: roboto center;
+h3	      { text-align:  center;
 		color: white; }
 
 p	      { color: #black; }
